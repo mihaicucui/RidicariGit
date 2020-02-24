@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/marker_car"
+        android:title="Mark car"
+        android:icon="@drawable/menu_car"/>
+
+    <item
+        android:id="@+id/marker_alert"
+        android:title="Mark alert"
+        android:icon="@drawable/add_alert"/>
+
+</menu>

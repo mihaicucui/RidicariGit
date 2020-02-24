@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_find_car"
+        android:title="Find car"
+        android:icon="@drawable/menu_car" />
+    <item android:id="@+id/action_add_location"
+        android:title="Add location"
+        android:icon="@drawable/add_location" />
+    <item android:id="@+id/action_add_alert"
+        android:title="Add alert"
+        android:icon="@drawable/add_alert" />
+</menu>

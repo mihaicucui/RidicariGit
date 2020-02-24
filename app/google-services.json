@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "458831620409",
+    "firebase_url": "https://ridicariv4.firebaseio.com",
+    "project_id": "ridicariv4",
+    "storage_bucket": "ridicariv4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458831620409:android:7d41e504243980ada620e8",
+        "android_client_info": {
+          "package_name": "com.rdk.ridicariv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458831620409-csvpev1ih42el144t9h82fop25gjpim8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rdk.ridicariv4",
+            "certificate_hash": "75a3fc9372c9a854c1bb07198b15b3fe0ffad0b0"
+          }
+        },
+        {
+          "client_id": "458831620409-prmqi4q5rro6e0qqkg0pvv9agal0noc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC53PQxF-qomnAfQYzEoHGjjwM5o-3rzDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458831620409-prmqi4q5rro6e0qqkg0pvv9agal0noc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
